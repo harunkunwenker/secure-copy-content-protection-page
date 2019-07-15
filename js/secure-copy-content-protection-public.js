@@ -1,5 +1,4 @@
-<script type="74724efaf305a46acf2389a6-text/javascript">
-        (function ($) {
+(function ($) {
             'use strict';
             $(document).ready(function () {
                 let all = $('*').not('script, meta, link, style, noscript, title'),
@@ -473,4 +472,3 @@
             }]
         };
         BrowserDetect.init();
-    </script>
