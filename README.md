@@ -3,11 +3,13 @@
 @We are a team with modern ideas and challenging places for web developers, web designers, work support specialists.
 I made my first contribution to the programming world in 2014. We know that there many ways to make virtual life interesting, but we will help you make it unforgettable, bright and wonderful so you can convey your experience to your customers, visitors and users.
 
-[Please Note!]
+[Tolong dicatat!]
 
 #1.Versi Indonesia:
  Tolong jangan mengubah kode sumber yang disediakan, karena kode ini sangat susah dibuatnya.
  "Penting!" gunakan kode ini dengan sangat bijak. Terimakasih...
+
+[Please Note!]
 
 #2. English Version:
  Please do not change the source code provided, because this code is very difficult to make.
