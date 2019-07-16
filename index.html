@@ -8,8 +8,12 @@
 	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='secure-copy-content-protection-css' href='css/secure-copy-content-protection-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='css/jquery-ui-1.12.1/jquery-ui.css' type='text/css' media='all' />
+<link rel='stylesheet' id='soundy_front_end-css' href='css/style-front-end.css' type='text/css' media='all' />
 <script type="text/javascript" src='js/jquery/jquery.js'></script>
 <script type="text/javascript" src='js/jquery.mobile.custom.min.js'></script>
+<script type="text/javascript" src='js/jquery/jquery.js'></script>
+<script type="text/javascript" src='js/front-end.js'></script>
 
 <audio id='sccp_public_audio'>
 <source src="Sorry-right-click-is-not-allowed.mp3" type='audio/mpeg'>
@@ -491,6 +495,23 @@
         };
         BrowserDetect.init();
     </script>
+		
+<script type="text/javascript">
+                var war_soundy_front_end = new war_SoundyFrontEnd(
+                {
+                    pp_code:                    '<img class="war_soundy_audio_control war_soundy_pp_corner" style="position: fixed; right: 35px; top: 35px;">',
+                    audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay loop>	   <source id="war_soundy_audio_player_source" src="https://sites.hrnbeatzpro.me/wp/wp-content/uploads/2019/07/naruto-shippuden-loneliness-chenow-trap-remix.mp3" type="audio/ogg">  </audio></div>',
+                    audio_volume:               0.1,
+                    preview:                    'false',
+                    button_url_play_normal:     '',
+                    button_url_pause_normal:    '',
+                    button_url_play_hover:      '',
+                    button_url_pause_hover:     '',
+                    user_agent_is_IOS:          false                } );
+
+                var war_soundy_responsive_mode = 'none';
+                var war_soundy_button_corner = 'upper_right';
+                            </script>
 
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <link rel="icon" href="images/favicon.ico" sizes="32x32" />
