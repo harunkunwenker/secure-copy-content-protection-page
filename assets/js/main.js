@@ -32,7 +32,8 @@
 						images: {
 							'images/bg01.webp': 'center',
 							'images/bg02.webp': 'center',
-							'images/bg03.webp': 'center'
+							'images/bg03.webp': 'center',
+							'images/bg04.webp': 'center'
 						},
 
 					// Delay.
