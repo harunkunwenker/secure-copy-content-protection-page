@@ -33,7 +33,13 @@
 							'images/bg01.webp': 'center',
 							'images/bg02.webp': 'center',
 							'images/bg03.webp': 'center',
-							'images/bg04.webp': 'center'
+							'images/bg04.webp': 'center',
+							'images/bg05.webp': 'center',
+							'images/bg06.webp': 'center',
+							'images/bg07.webp': 'center',
+							'images/bg08.webp': 'center',
+							'images/bg09.webp': 'center',
+							'images/bg10.webp': 'center'
 						},
 
 					// Delay.
